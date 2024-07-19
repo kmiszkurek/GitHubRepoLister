@@ -12,6 +12,10 @@ This application provides an API to list all non-forked repositories for a given
 ## Setup Instructions
 
 1. Clone the repository
+    ```sh
+    git clone https://github.com/yourusername/GitHubRepoLister.git
+    cd GitHubRepoLister
+    ```  
 2. Navigate to the project directory
 3. Build the project using Maven
     ```sh
